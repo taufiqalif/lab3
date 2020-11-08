@@ -22,6 +22,7 @@ pertama kita menetukan banyak nya perulangan sebanyak 10x
 ![02.png](/gambar/02.png)
 
 variable `i` berfungsi untuk menampung ideks 
+
 dan fungsi `range()` berfungsi untuk membuat list dengan range dari 1-10.
 
 ![03.png](/gambar/03.png)
